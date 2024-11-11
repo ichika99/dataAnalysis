@@ -1,3 +1,5 @@
+https://github.com/ichika99/dataAnalysis
+
 # 抽卡模拟
 用于计算目前手游常见抽卡模式的期望情况（伪随机，保底）
 drawCardBySimulate：使用excel VBA进行模拟，通过大量模拟数据得出一个近似的抽卡分布曲线，可信度较高。
